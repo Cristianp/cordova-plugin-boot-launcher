@@ -1,4 +1,4 @@
-package com.epa.latido.bootlauncher;
+package uk.co.ilee.bootlauncher;
 
 import android.content.Intent;
 import android.net.Uri;
